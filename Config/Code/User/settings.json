@@ -1,0 +1,10 @@
+{
+    "editor.fontFamily": "'Monaco', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontSize": 16,
+    "editor.cursorStyle": "line-thin",
+    "scm.alwaysShowActions": true,
+    "scm.alwaysShowProviders": true,
+    "gitlens.settings.mode": "advanced",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+}

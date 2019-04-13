@@ -1,0 +1,13 @@
+[Added Associations]
+x-scheme-handler/http=exo-web-browser.desktop
+x-scheme-handler/https=exo-web-browser.desktop
+application/zip=org.gnome.FileRoller.desktop;
+text/plain=org.gnome.gedit.desktop;vim.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=org.gnome.FileRoller.desktop;
+application/vnd.squashfs=org.gnome.FileRoller.desktop;
+application/x-php=org.gnome.gedit.desktop;
+image/gif=org.gnome.gedit.desktop;
+application/x-shellscript=org.gnome.gedit.desktop;
+audio/x-ms-asx=org.gnome.gedit.desktop;
+application/octet-stream=org.gnome.gedit.desktop;
+

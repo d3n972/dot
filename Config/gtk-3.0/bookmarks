@@ -1,0 +1,3 @@
+sftp://server@10.0.0.4/home/server /home @ Server
+sftp://pi@10.0.0.5/home/pi pi on 10.0.0.5
+sftp://d3n@10.0.0.4:10522/home/d3n d3n on 10.0.0.4

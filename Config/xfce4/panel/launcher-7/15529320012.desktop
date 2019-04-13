@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=PhpStorm
+Icon=/var/lib/snapd/snap/phpstorm/87/bin/phpstorm.png
+Exec=env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/phpstorm_phpstorm.desktop /var/lib/snapd/snap/bin/phpstorm %f
+Comment=Lightning-smart PHP IDE
+Categories=Development;IDE;
+Terminal=false
+StartupWMClass=jetbrains-phpstorm
+X-XFCE-Source=file:///var/lib/snapd/desktop/applications/phpstorm_phpstorm.desktop

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Discord
+StartupWMClass=discord
+Comment=All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.
+GenericName=Internet Messenger
+Exec=env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/discord_discord.desktop /var/lib/snapd/snap/bin/discord %U
+Icon=/var/lib/snapd/snap/discord/93/usr/share/discord/discord.png
+Type=Application
+Categories=Network;InstantMessaging;
+X-XFCE-Source=file:///var/lib/snapd/desktop/applications/discord_discord.desktop
